@@ -18,11 +18,11 @@
     background-color: rgb(10, 136, 240);
     color: rgb(174, 245, 10);
 }
-.Orgon
+.Cleante
 {
     color: rgb(26, 159, 199);
 }
-.Mariane{
+.Orgon{
     color: rgb(196, 22, 182);
 }
 .name:hover {
@@ -56,12 +56,12 @@ td{
 tr {
     background-color:rgb(51, 146, 235) ;
 }
-.Orgon:hover {
+.Cleante:hover {
     filter:blur(1px);
     border:3px rgb(184, 199, 247);
     box-shadow:2px 2px rgb(1, 44, 19);
 }
-.Mariane:hover{
+.Orgon:hover{
     filter:blur(1px);
     border:3px rgb(172, 231, 160);
     box-shadow:2px 2px rgb(47, 2, 88);  
